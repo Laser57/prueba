@@ -1,5 +1,5 @@
-def saluda
-puts "Ejemplo de git"
+def saluda (nombre)
+puts "Ejemplo #{nombre} desde  git"
     
     
 end
@@ -7,4 +7,4 @@ end
 
 
 
-saluda()
+saluda('Luis')
